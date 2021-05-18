@@ -1,0 +1,107 @@
+body {
+	margin: 0px;
+	font-family: futura bk bt;
+}
+
+.container {
+	background-color: #ccc;
+	margin: auto;
+	width: 1200px;
+	height: 1800px;
+}
+
+.header {
+	background-color: #20B2AA;
+	height: 60px;
+}
+
+.navbar {
+	background-color: #800000;
+	height: 80px;
+}
+
+.navbar ul {
+	float: right;
+}
+
+.navbar ul li {
+	list-style: none;
+	padding: 15px;
+	display: inline-block;
+}
+
+.navbar ul li a {
+	text-decoration: none;
+	color: #fff;
+}
+
+.navbar ul li a:hover {
+	color: #000;
+}
+
+.about {
+	background-color: #FFD700;
+	height: 400px;
+}
+
+.about p {
+	margin: 0px;
+}
+
+.services {
+	background-color: #F4A460;
+	height: 450px;
+}
+
+.ser1 p {
+	display: inline-block;
+	height: 450px;
+	width: 400px;
+	font-size: 60px;
+	text-align: center;
+	line-height: 450px;
+}
+
+.ser1 p {
+	margin: 0px;
+	margin-left: -4px;
+	padding: 0px;
+}
+
+.gallary {
+	background-color: #BDB76B;
+	height: 600px;
+}
+
+.item a {
+	display: inline-block;
+	height: 300px;
+	width: 400px;
+	font-size: 60px;
+	text-align: center;
+	line-height: 300px;
+}
+
+.item a {
+	margin: 0px;
+	margin-left: -4px;
+	text-decoration: none;
+}
+
+.client {
+	background-color: #696969;
+	height: 160px;
+}
+
+.contact {
+	background-color: #FFA500;
+	height: 50px;
+}
+
+.icon {
+	text-align: center;
+	color: #fff;
+	font-size: 22px;
+	padding: 10px;
+	word-spacing: 60px;
+}
